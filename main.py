@@ -38,7 +38,7 @@ out_features = 200  # ==> (m+n)xk  2220x200
 # 图卷积第一层结束时 a=500
 N_HID = 500
 
-adjust_p_neighbors_parameters = False
+adjust_p_neighbors_parameters = True
 
 lambda_l = 0.00001
 lambda_d = 0.001
